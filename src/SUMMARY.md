@@ -12,3 +12,5 @@
 - [都知事杯ハッカソン 2024]()
   - [キックオフ](./TokyoHack/KickOff/kickOff.md)
     - [基調講演](./TokyoHack/KickOff/keyNote/okuda.md)
+  - [アイデアソン１ day](./TokyoHack/idea/oneday/index.md)
+    - [セミナー](./TokyoHack/idea/oneday/seminar/index.md)
