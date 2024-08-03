@@ -1,0 +1,9 @@
+version: '3'
+services:
+  mdbook:
+    build: .
+    ports:
+      - "${PORT:-3000}:3000"
+    volumes:
+      - "./work:/work"
+    user: "${UID:-1000}:${GID:-1000}"
