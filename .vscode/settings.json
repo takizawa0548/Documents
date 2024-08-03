@@ -1,4 +1,11 @@
 {
-    "markdown.preview.breaks": true,
-    "editor.formatOnSave": true
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+    "prettier.proseWrap": "always",
+    "prettier.printWidth": 80,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false
 }

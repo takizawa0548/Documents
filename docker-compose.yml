@@ -5,5 +5,5 @@ services:
     ports:
       - "${PORT:-3000}:3000"
     volumes:
-      - "./work:/work"
+      - "./:/work"
     user: "${UID:-1000}:${GID:-1000}"
