@@ -1,6 +1,3 @@
-# hackFes2024
-
-- [目次](./index.md)
 - [HackFes2024]()
 
   - [Deepfake を用いた e-KYC に対するなりすまし攻撃と対策の検討](./hackFes/Deepfakeを用いたe-KYCに対するなりすまし攻撃と対策の検討.md)
