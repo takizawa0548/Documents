@@ -15,3 +15,5 @@
     - [基調講演](./TokyoHack/KickOff/keyNote/okuda.md)
   - [アイデアソン１ day](./TokyoHack/idea/oneday/index.md)
     - [セミナー](./TokyoHack/idea/oneday/seminar/index.md)
+  - [アイデアソン 2 day](./TokyoHack/idea/twoday/index.md)
+    - [質疑応答](./TokyoHack/idea/twoday/question.md)
