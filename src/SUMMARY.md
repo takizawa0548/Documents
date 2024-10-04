@@ -18,4 +18,6 @@
   - [アイデアソン 2 day](./TokyoHack/idea/twoday/index.md)
     - [質疑応答](./TokyoHack/idea/twoday/question.md)
   - [ハッカソン]()
-    - [1day](./TokyoHack/hackthon/onday/index.md)
+    - [FirstStage]()
+      - [1day](./TokyoHack/hackthon/firstStage/onday/index.md)
+    - [FinalStage](./TokyoHack/hackthon/finalStageinformationalMeeting/index.md)
