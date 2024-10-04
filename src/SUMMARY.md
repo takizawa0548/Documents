@@ -20,4 +20,4 @@
   - [ハッカソン]()
     - [FirstStage]()
       - [1day](./TokyoHack/hackthon/firstStage/onday/index.md)
-    - [FinalStage](./TokyoHack/hackthon/finalStageinformationalMeeting/index.md)
+    - [FinalStage](./TokyoHack/hackthon/finalStage/informationalMeeting/index.md)
