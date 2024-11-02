@@ -21,3 +21,5 @@
     - [FirstStage]()
       - [1day](./TokyoHack/hackthon/firstStage/onday/index.md)
     - [FinalStage](./TokyoHack/hackthon/finalStage/informationalMeeting/index.md)
+  - [社会実装]()
+    - [キックオフ](./TokyoHack/socialImplementation/kickOff/index.md)
