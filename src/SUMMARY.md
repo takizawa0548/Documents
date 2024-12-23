@@ -10,6 +10,9 @@
   - [ワークショップ：OSINT による画像分析入門 by pinja](./hackFes/workshop/ワークショップ：OSINTによる画像分析入門%20by%20pinja.md)
   - [ワークショップ：バグバウンティ入門](./hackFes/workshop/ワークショップ：バグバウンティ入門.md)
 
+  - [PHP カンファレンス 2024]()
+    - [アクターモデル](./phpConf/workShop/index.md)
+
 - [都知事杯ハッカソン 2024]()
   - [キックオフ](./TokyoHack/KickOff/kickOff.md)
     - [基調講演](./TokyoHack/KickOff/keyNote/okuda.md)
